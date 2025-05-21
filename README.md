@@ -54,5 +54,6 @@ Ticket names varied across years. These were categorized and simplified into a c
 - Replaced all price-related fields with dummy values to protect business confidentiality.
 - Trimmed the dataset to a maximum of 5,000 transactions per event year to maintain readability and performance.
 
-📄 The cleaned dataset included in this repository:  
-**`Music Festival (All Year - Paid) Cleaned.xlsx`**
+📄 The cleaned dataset is included in this repository:  
+**[`Music Festival (All Year - Paid) Cleaned.xlsx`](https://github.com/citaalunsukma/Music-Festival-Yearly-Insights/blob/7dfc82ebe1350401520f5865a87598aadca797d9/Music%20Festival%20(All%20Year%20-%20Paid)%20Cleaned.xlsx)**  
+*Note: GitHub may not preview large Excel files directly, but the file is available for download.*
