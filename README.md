@@ -28,8 +28,8 @@ This helps you quickly identify which years performed best, what ticket types we
   No consistent pattern on most-attended days, showing artist lineups matter more than weekdays/weekends.
 
 - **Ticket Type Preferences:**  
-  Multi-Day Passes were dominant until 2024, when Daily Passes rose overtook them for the first time.  
-  VIP ticket sales rose gradually over the time, showing growing demand for premium experiences.
+  Multi-Day Passes were dominant until 2024, when Daily Passes overtook them for the first time.  
+  VIP ticket sales rose gradually over time, showing growing demand for premium experiences.
 
 - **Audience Geography:**  
   Most attendees are from Indonesia, followed by Singapore and Malaysia.  
@@ -39,3 +39,20 @@ This helps you quickly identify which years performed best, what ticket types we
 
 🔗 **View the live dashboard:**  
 [Tableau Public – Music Festival Dashboard](https://public.tableau.com/app/profile/cita.alun.sukma/viz/MusicFestivalInsightsDashboard/MusicFestivalInsightsDashboard20152024)
+
+---
+
+### 🧹 Data Preparation Summary
+
+This dataset has been cleaned and adjusted to ensure clarity, consistency, and data confidentiality before being published in this repository.
+
+#### 🎟 Ticket Type Standardization
+Ticket names varied across years. These were categorized and simplified into a consistent format, summarized in the `MASTER` sheet.
+
+#### 🔐 Modifications for Public Sharing
+- Removed personal information such as full names, emails, IP addresses, and invoice codes.
+- Replaced all price-related fields with dummy values to protect business confidentiality.
+- Trimmed the dataset to a maximum of 5,000 transactions per event year to maintain readability and performance.
+
+📄 The cleaned dataset included in this repository:  
+**`Music Festival (All Year - Paid) Cleaned.xlsx`**
